@@ -5,6 +5,7 @@ package trycat.easy;
 			모든 프로그래밍 언어를 배울 때 가장 좋은 것은 간단하게라도 직접 프로그래밍을 해보는 것이다. Hello World를 출력해보자. 
   CONDISTIONS: 
   			Time Limit : 100ms, Memory Limit : 512kb
+  			화면에 Hello World를 축력한다. 대소문자를 구별한다.
   REVISIONS:
   Ver        Date        Author           Description
   ---------  ----------  ---------------  ------------------------------------

@@ -10,6 +10,8 @@ import trycat.common.Utill;
 			숫자단위에 아직 미숙한 어린 아이들을 대상으로 숫자가 한글로 출력되는 프로그램을 만들고자 한다.
   CONDISTIONS: 
   			Time Limit : 100ms, Memory Limit : 512kb 
+  			0부터 1억 사이의 정수 
+  			입력받은 숫자를 한글로 읽어 출력한다. 
   REVISIONS:
   Ver        Date        Author           Description
   ---------  ----------  ---------------  ------------------------------------
